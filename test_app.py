@@ -2,5 +2,5 @@ from app import greet
 
 
 def test_greet():
-    assert greet("World") == "Hello, World!"
-    assert greet("DevOps") == "Hello, DevOps!"
+    assert greet("World") == "Hello, World! 👋"
+    assert greet("DevOps") == "Hello, DevOps! 👋"
